@@ -1,0 +1,6 @@
+Created by: Ramesh "Meshugah" Balakrishnan
+Created on: March 20, 2018
+Created at: Argonne National Laboratory
+
+Legend: the purpose of this meshugah "branch" in the thickAsABrick/IHIT3D "fork" is to try out (and create) some crazy 
+        parallel performance enhancement stuff for DNS of high-Re_Lambda (did I say crazy) simulations.

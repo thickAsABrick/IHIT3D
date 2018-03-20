@@ -1,0 +1,7 @@
+#summary "To Do" list
+
+= To Do = 
+
+ # Make sure we understand what is kmax and how to remove aliased modes using 2/3-rule
+ # Consistent definition of energy and dissipation in the statistics
+ # Make a switch so that code can run on fewer processors.  E.g., do everything on the same processors.

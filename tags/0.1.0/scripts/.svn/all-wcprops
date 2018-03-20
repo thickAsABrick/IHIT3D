@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/98/tags/0.1.0/scripts
+END
+coyote.sub
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/98/tags/0.1.0/scripts/coyote.sub
+END
+00_example.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/98/tags/0.1.0/scripts/00_example.in
+END
+wcr.sub
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/98/tags/0.1.0/scripts/wcr.sub
+END
+snapshot.gp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/98/tags/0.1.0/scripts/snapshot.gp
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/100/tags/develop/hit3d
+END
+m_force.f90
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/100/tags/develop/hit3d/m_force.f90
+END
+init_scalars.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/tags/develop/hit3d/init_scalars.f90
+END
+my_dt.f90
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/100/tags/develop/hit3d/my_dt.f90
+END
+m_parameters.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/tags/develop/hit3d/m_parameters.f90
+END
+m_filter_xfftw.f90
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/100/tags/develop/hit3d/m_filter_xfftw.f90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/100/tags/develop/hit3d/Makefile
+END
+m_fields.f90
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/100/tags/develop/hit3d/m_fields.f90
+END
+dealias_all.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/100/tags/develop/hit3d/dealias_all.f90
+END
+x_fftw.f90
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/100/tags/develop/hit3d/x_fftw.f90
+END
+m_work.f90
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/100/tags/develop/hit3d/m_work.f90
+END
+m_les.f90
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/100/tags/develop/hit3d/m_les.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/100/tags/develop/hit3d/README
+END
+m_particles.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/100/tags/develop/hit3d/m_particles.f90
+END
+m_timing.f90
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/100/tags/develop/hit3d/m_timing.f90
+END
+rhs_scalars.f90
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/100/tags/develop/hit3d/rhs_scalars.f90
+END
+io_write_4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/100/tags/develop/hit3d/io_write_4.f90
+END
+rhs_velocity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/tags/develop/hit3d/rhs_velocity.f90
+END
+m_stats.f90
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/100/tags/develop/hit3d/m_stats.f90
+END
+restart_io.f90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/100/tags/develop/hit3d/restart_io.f90
+END
+my_exit.f90
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/100/tags/develop/hit3d/my_exit.f90
+END
+init_velocity.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/100/tags/develop/hit3d/init_velocity.f90
+END
+m_io.f90
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/100/tags/develop/hit3d/m_io.f90
+END
+m_openmpi.f90
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/100/tags/develop/hit3d/m_openmpi.f90
+END
+main.f90
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/100/tags/develop/hit3d/main.f90
+END
+begin_restart.f90
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/100/tags/develop/hit3d/begin_restart.f90
+END
+velocity_rescale.f90
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/100/tags/develop/hit3d/velocity_rescale.f90
+END
+begin_new.f90
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/100/tags/develop/hit3d/begin_new.f90
+END
+write_tmp4.f90
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/100/tags/develop/hit3d/write_tmp4.f90
+END
+get_file_ext.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/tags/develop/hit3d/get_file_ext.f90
+END
+RANDu.f
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/100/tags/develop/hit3d/RANDu.f
+END
+pressure.f90
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/100/tags/develop/hit3d/pressure.f90
+END
+m_rand_knuth.f90
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/100/tags/develop/hit3d/m_rand_knuth.f90
+END
